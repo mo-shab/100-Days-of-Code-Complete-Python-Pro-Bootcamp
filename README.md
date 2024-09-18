@@ -1,3 +1,3 @@
 # 100-Days-of-Code-Complete-Python-Pro-Bootcamp
 
-## Day 1 : Brand Name Generator, In this Project, We learn how to use str, Input and printf function.
+## Day 1 - Beginner - Working with Variables in Python to Manage Data
